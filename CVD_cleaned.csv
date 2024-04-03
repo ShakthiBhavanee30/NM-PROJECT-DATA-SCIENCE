@@ -1,0 +1,151 @@
+Name  ,General_Health,Checkup,Exercise,Heart_Disease,Skin_Cancer,Other_Cancer,Depression,Diabetes,Arthritis,Sex,Age_Category,Height_(cm),Weight_(kg),BMI,Smoking_History,Alcohol_Consumption,Fruit_Consumption,Green_Vegetables_Consumption,FriedPotato_Consumption
+Isabelle Watson,Poor,Within the past 2 years,No,No,No,No,No,No,Yes,Female,70-74,150,32.66,14.54,Yes,0,30,16,12
+Xander Delgado,Very Good,Within the past year,No,Yes,No,No,No,Yes,No,Female,70-74,165,77.11,28.29,No,0,30,0,4
+Evelynn Sweeney,Very Good,Within the past year,Yes,No,No,No,No,Yes,No,Female,60-64,163,88.45,33.47,No,4,12,3,16
+Amirah Green,Poor,Within the past year,Yes,Yes,No,No,No,Yes,No,Male,75-79,180,93.44,28.73,No,0,30,30,8
+Aisha Valencia,Good,Within the past year,No,No,No,No,No,No,No,Male,80+,191,88.45,24.37,Yes,0,8,4,0
+Jagger Casey,Good,Within the past year,No,No,No,No,Yes,No,Yes,Male,60-64,183,154.22,46.11,No,0,12,12,12
+Amara Huerta,Fair,Within the past year,Yes,Yes,No,No,No,No,Yes,Male,60-64,175,69.85,22.74,Yes,0,16,8,0
+Khalid Dougherty,Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,65-69,165,108.86,39.94,Yes,3,30,8,8
+Kaya Horn,Fair,Within the past year,No,No,No,No,Yes,No,No,Female,65-69,163,72.57,27.46,Yes,0,12,12,4
+Kylan Charles,Fair,Within the past year,No,No,No,No,No,Yes,Yes,Female,70-74,163,91.63,34.67,No,0,12,12,1
+Andy Herman,Fair,Within the past year,Yes,Yes,No,No,No,No,Yes,Female,75-79,160,74.84,29.23,No,0,30,20,2
+Emilee Wise,Fair,Within the past year,No,Yes,Yes,No,No,Yes,No,Male,75-79,175,73.48,23.92,No,0,2,8,30
+Zelda Woodard,Very Good,Within the past year,No,No,No,No,Yes,No,No,Female,50-54,168,83.91,29.86,No,8,8,0,2
+Lucia Griffin,Fair,Within the past year,No,No,Yes,No,No,No,No,Male,65-69,178,113.4,35.87,Yes,4,2,3,4
+Brylee Gates,Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Female,70-74,152,52.16,22.46,No,0,30,4,0
+Kyson Warner,Fair,Within the past year,No,No,No,No,No,Yes,Yes,Female,70-74,163,116.12,43.94,No,0,8,8,4
+Kendra Brady,Good,Within the past year,No,No,No,No,No,No,No,Male,80+,183,99.79,29.84,No,0,1,4,20
+Jenna Bean,Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,80+,168,81.65,29.05,No,30,30,12,8
+Skylar Barrera,Fair,Within the past year,Yes,No,No,No,No,Yes,No,Male,45-49,178,104.33,33,Yes,2,16,12,8
+Theo Rangel,Good,Within the past year,No,No,Yes,Yes,No,Yes,Yes,Female,70-74,163,79.38,30.04,No,0,12,8,4
+Cash Patel,Very Good,Within the past 2 years,Yes,No,No,No,Yes,No,No,Female,18-24,157,55.79,22.5,No,0,60,30,1
+Cohen Valenzuela,Fair,Within the past year,No,No,No,Yes,No,Yes,Yes,Male,80+,175,81.65,26.58,No,0,0,1,1
+Mariela Dougherty,Very Good,5 or more years ago,Yes,No,No,No,No,No,No,Female,30-34,180,124.74,38.35,No,0,2,4,12
+Tatum Austin,Good,Within the past 2 years,No,No,No,No,No,Yes,No,Female,55-59,163,81.19,30.72,Yes,0,30,20,4
+Dwayne Huber,Good,Within the past year,No,No,Yes,Yes,No,No,Yes,Female,80+,160,70.31,27.46,Yes,12,8,16,4
+Yasmin Abbott,Good,Within the past year,Yes,No,No,Yes,No,No,Yes,Female,70-74,160,88.45,34.54,Yes,0,8,4,2
+Kymani Rodriguez,Fair,Within the past year,No,No,No,No,No,"No, pre-diabetes or borderline diabetes",Yes,Female,70-74,157,81.65,32.92,No,0,30,8,0
+Lilia Sloan,Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,65-69,157,74.84,30.18,No,0,30,4,1
+Duke Bates,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Male,70-74,191,112.49,31,No,0,30,10,15
+Kylan Potter,Fair,Within the past year,No,No,No,No,Yes,Yes,Yes,Male,65-69,180,147.42,45.33,No,0,2,5,10
+Lailah Hatfield,Very Good,Within the past year,No,No,No,No,No,"No, pre-diabetes or borderline diabetes",Yes,Female,70-74,160,83.91,32.77,No,0,30,30,4
+Zara Davila,Fair,Within the past year,Yes,No,No,No,No,No,Yes,Female,65-69,165,84.82,31.12,Yes,1,60,1,2
+Rudy Donovan,Fair,Within the past year,Yes,No,Yes,No,No,No,Yes,Male,70-74,188,102.06,28.89,No,0,30,1,12
+Cheyenne Malone,Good,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,50-54,160,70.31,27.46,Yes,0,7,2,0
+Nash Bradford,Good,Within the past year,Yes,No,Yes,No,No,No,No,Male,70-74,185,88.45,25.73,No,1,30,12,3
+Mina Herman,Good,Within the past year,Yes,Yes,No,Yes,No,Yes,Yes,Female,75-79,170,64.41,22.24,No,1,12,4,4
+Blake Proctor,Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Female,60-64,168,60.78,21.63,No,0,60,30,2
+Emory Lambert,Good,Within the past year,No,No,Yes,No,No,No,Yes,Female,80+,165,70.31,25.79,Yes,3,60,30,8
+Luka Yoder,Good,Within the past year,No,No,Yes,No,No,No,Yes,Female,80+,168,77.11,27.44,No,0,5,8,12
+Brice Valentine,Good,Within the past year,No,No,No,No,No,No,Yes,Female,75-79,165,69.85,25.63,Yes,0,30,30,1
+Yasmin Orr,Excellent,Within the past year,No,No,No,No,No,No,No,Female,80+,157,61.23,24.69,No,0,30,8,0
+Yasmin Bass,Good,Within the past year,Yes,No,No,No,No,Yes,No,Male,70-74,178,88.45,27.98,Yes,0,5,5,0
+Zachariah Pitts,Good,Within the past year,No,No,No,No,Yes,No,Yes,Female,70-74,165,77.11,28.29,No,0,3,0,2
+Griffin Singleton,Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,178,88,27.84,No,3,30,20,7
+Jurnee Barrera,Good,Within the past year,No,No,No,No,No,No,No,Female,55-59,163,81.65,30.9,No,0,30,0,3
+Alexia Elliott,Fair,Within the past 2 years,No,No,No,Yes,Yes,No,Yes,Female,55-59,175,90.72,29.53,Yes,0,2,16,16
+Blake Snyder,Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Female,75-79,168,49.9,17.75,No,0,30,30,0
+Dwayne Atkins,Fair,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,60-64,168,85.28,30.34,Yes,4,0,3,2
+Roland Meadows,Good,Within the past year,No,No,No,Yes,Yes,No,Yes,Female,60-64,163,120.2,45.49,Yes,0,60,30,1
+Madeline Flowers,Poor,Within the past year,Yes,No,Yes,No,Yes,"No, pre-diabetes or borderline diabetes",Yes,Female,65-69,152,69.4,29.88,No,0,6,6,0
+Luka Skinner,Fair,Within the past year,No,No,No,No,No,Yes,No,Female,80+,163,62.14,23.52,Yes,0,8,30,4
+Judah Goodman,Very Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,70-74,178,88.45,27.98,No,0,8,60,0
+Elaine Barton,Good,Within the past year,Yes,Yes,Yes,No,No,No,Yes,Male,65-69,173,104.33,34.97,No,30,12,5,7
+Case Lynch,Good,Within the past year,No,No,No,Yes,No,No,No,Male,60-64,170,65.77,22.71,No,0,90,12,0
+Channing Hayes,Very Good,Within the past 2 years,No,No,Yes,No,No,"No, pre-diabetes or borderline diabetes",Yes,Male,65-69,178,88.45,27.98,Yes,0,8,12,0
+Kole Bowers,Fair,Within the past 2 years,No,No,No,Yes,No,No,No,Female,80+,152,32.66,14.06,Yes,0,1,0,0
+Maddox Flynn,Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,70-74,173,89.81,30.11,Yes,0,28,28,0
+Corbin Acosta,Fair,Within the past year,No,No,No,Yes,Yes,No,No,Female,65-69,155,66.68,27.78,Yes,0,16,4,3
+Lilia Huffman,Good,Within the past 2 years,Yes,No,No,No,No,No,No,Female,75-79,165,72.57,26.63,No,0,8,0,1
+Dominic Compton,Excellent,Within the past 5 years,Yes,No,No,No,No,No,No,Female,70-74,155,74.84,31.18,Yes,0,20,16,12
+Leo Foley,Very Good,Within the past year,Yes,No,No,No,No,No,No,Male,45-49,180,86.18,26.5,Yes,4,2,10,15
+Maddox Jacobson,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,45-49,175,72.12,23.48,No,5,30,12,8
+Princess Hanson,Excellent,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,70-74,163,60.78,23,No,10,30,30,2
+Marcelo Kent,Good,Within the past year,Yes,No,No,No,Yes,No,No,Male,18-24,180,81.65,25.1,No,0,30,2,4
+Stella Shepard,Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,50-54,157,61.23,24.69,Yes,0,8,25,0
+Maeve Black,Fair,Within the past year,No,No,Yes,No,Yes,Yes,Yes,Female,70-74,165,90.72,33.28,No,0,4,1,4
+Zane Cross,Fair,Within the past year,No,No,Yes,No,No,No,Yes,Male,75-79,183,87.54,26.18,Yes,0,2,4,4
+Rex Cuevas,Very Good,Within the past year,No,No,No,No,No,No,No,Female,60-64,160,62.6,24.45,Yes,0,28,20,1
+Zion Conrad,Fair,Within the past year,No,No,No,No,Yes,No,Yes,Female,65-69,173,75.75,25.39,Yes,20,16,10,0
+Giana Camacho,Poor,Within the past year,No,No,No,Yes,Yes,No,Yes,Female,45-49,152,88.9,38.28,No,0,30,14,28
+Giana Sawyer,Good,Within the past year,Yes,No,No,Yes,No,No,No,Female,65-69,175,81.65,26.58,No,0,8,12,0
+Jayleen Stark,Good,Within the past year,No,No,No,No,No,No,Yes,Male,60-64,178,92.08,29.13,Yes,0,30,1,2
+Rylan Bowers,Good,5 or more years ago,Yes,No,No,No,Yes,No,Yes,Female,45-49,170,81.65,28.19,Yes,17,3,0,1
+Jagger Eaton,Fair,Within the past 2 years,Yes,No,No,No,Yes,No,No,Female,55-59,160,72.57,28.34,Yes,4,80,40,12
+Jaxton Hebert,Good,Within the past year,No,No,No,Yes,Yes,Yes,No,Female,60-64,163,72.57,27.46,Yes,2,30,4,4
+Mia Ritter,Excellent,Within the past 2 years,Yes,No,No,No,No,No,No,Female,55-59,152,56.7,24.41,No,0,30,30,1
+Atlas Valentine,Good,Within the past year,No,No,No,No,No,No,No,Female,35-39,168,68.04,24.21,No,0,24,12,12
+Immanuel Tyler,Good,Within the past year,No,No,No,Yes,No,No,Yes,Female,65-69,173,79.83,26.76,No,0,0,4,0
+Camilla Mcknight,Very Good,Within the past year,No,No,No,No,No,No,No,Male,60-64,170,61.23,21.14,No,30,16,12,4
+Jensen Pearson,Fair,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,55-59,157,63.5,25.61,Yes,0,16,4,4
+Yadiel Yang,Excellent,Within the past year,No,No,No,No,No,No,No,Female,65-69,173,86.18,28.89,Yes,0,1,8,0
+Khalid Mcbride,Good,Within the past year,Yes,No,No,No,Yes,No,Yes,Female,60-64,163,58.97,22.31,Yes,0,30,12,12
+Jaylee Doyle,Very Good,Within the past year,No,No,No,Yes,No,No,Yes,Female,80+,163,83.91,31.75,No,0,30,4,1
+Kylan Wagner,Good,Within the past 2 years,No,No,No,No,No,Yes,Yes,Female,65-69,170,89.81,31.01,Yes,0,3,3,2
+Kylan Macias,Fair,Within the past year,Yes,No,No,No,No,"No, pre-diabetes or borderline diabetes",No,Female,80+,170,74.84,25.84,No,0,8,4,0
+Kylan Vaughan,Fair,Within the past year,Yes,No,No,No,No,No,Yes,Female,80+,168,90.72,32.28,No,0,15,3,5
+Jaxson Estrada,Very Good,Within the past 2 years,No,No,No,Yes,No,No,Yes,Female,75-79,155,84.82,35.33,No,0,60,8,4
+Jaxson Delaney,Fair,Within the past year,No,No,No,No,No,No,Yes,Female,70-74,160,72.57,28.34,No,0,12,16,0
+Kyla Rush,Very Good,Within the past year,Yes,Yes,No,No,No,No,Yes,Male,70-74,183,90.72,27.12,Yes,12,10,20,16
+Chaim Williams,Excellent,Within the past 2 years,Yes,No,Yes,No,No,No,No,Female,35-39,165,61.23,22.46,No,0,60,12,1
+Kaya Stanley,Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Female,70-74,163,62.14,23.52,No,0,30,8,0
+Kaya Booker,Good,Within the past 5 years,Yes,No,No,Yes,No,No,Yes,Female,80+,168,88.45,31.47,Yes,0,8,2,2
+Adalyn Mercado,Very Good,Within the past year,No,No,No,No,Yes,No,No,Male,70-74,178,90.72,28.7,Yes,0,12,8,1
+Chana Gallegos,Very Good,Within the past year,Yes,Yes,No,Yes,No,No,Yes,Male,75-79,180,114.76,35.29,Yes,0,2,20,0
+Joe Vargas,Very Good,Within the past 2 years,Yes,No,No,No,No,No,No,Female,65-69,160,65.77,25.69,No,4,5,4,2
+King Curtis,Fair,Within the past year,No,No,Yes,No,No,Yes,Yes,Male,70-74,183,88,26.31,Yes,0,12,8,4
+Mina Nguyen,Good,Within the past year,No,No,No,No,No,No,Yes,Female,75-79,157,81.65,32.92,No,0,12,8,1
+Mina Farrell,Fair,Within the past 2 years,Yes,Yes,No,No,No,No,Yes,Female,80+,155,45.36,18.89,Yes,20,12,16,0
+Mina Hodge,Very Good,Within the past year,Yes,No,No,Yes,No,No,Yes,Female,80+,160,63.5,24.8,No,0,16,0,1
+Mina Singleton,Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,35-39,157,58.97,23.78,No,0,12,16,8
+Mina Meza,Very Good,Within the past year,Yes,No,No,No,No,"Yes, but female told only during pregnancy",No,Female,35-39,163,73.94,27.98,No,0,12,16,12
+Kaya Curry,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Female,60-64,160,90.72,35.43,Yes,0,12,8,4
+Samara Hardin,Good,Within the past year,No,No,No,No,No,No,No,Female,60-64,155,54.43,22.67,Yes,0,60,7,20
+Adelyn Schmitt,Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Male,60-64,168,90.72,32.28,No,0,5,4,8
+Zion Chaney,Good,Within the past year,No,No,No,No,No,Yes,No,Male,65-69,175,102.06,33.23,No,0,4,2,8
+Kyla Solomon,Very Good,Within the past year,Yes,No,No,No,No,No,No,Female,55-59,160,81.65,31.89,No,0,16,8,4
+Kyla Levy,Good,Within the past year,Yes,No,No,No,No,Yes,No,Female,70-74,163,73.48,27.81,No,0,60,12,0
+Kyla Mcneil,Poor,Within the past year,No,Yes,No,No,Yes,Yes,Yes,Female,75-79,160,72.57,28.34,No,0,4,30,30
+Kyla Ball,Fair,Within the past year,Yes,Yes,Yes,No,No,Yes,Yes,Male,75-79,193,125.19,33.6,Yes,1,8,1,4
+Kyla Hooper,Good,Within the past year,Yes,No,No,No,Yes,Yes,Yes,Female,55-59,160,77.56,30.29,No,0,60,30,4
+Kyla Shannon,Good,Within the past year,Yes,No,No,No,No,No,Yes,Male,65-69,180,96.16,29.57,No,0,90,4,9
+Kyla Blevins,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,70-74,170,77.11,26.63,No,0,4,0,0
+Kyla Herring,Good,Within the past year,No,No,No,No,No,Yes,Yes,Female,70-74,163,79.83,30.21,Yes,0,30,8,8
+Kyla Serrano,Good,Within the past year,Yes,No,No,No,No,No,Yes,Female,50-54,168,95.25,33.89,No,0,0,8,4
+Kyla Irwin,Very Good,Within the past year,No,No,No,No,No,Yes,Yes,Female,65-69,168,115.67,41.16,Yes,16,1,0,1
+Kyla Kline,Good,Within the past year,Yes,Yes,No,No,No,"No, pre-diabetes or borderline diabetes",Yes,Female,70-74,163,72.57,27.46,No,0,30,12,0
+Kyla Hendrix,Very Good,Within the past year,Yes,No,No,No,Yes,"No, pre-diabetes or borderline diabetes",Yes,Female,60-64,170,83.91,28.97,Yes,16,16,12,5
+Kyla Stuart,Good,Within the past year,Yes,No,No,No,No,No,No,Female,55-59,163,56.7,21.46,No,0,12,0,8
+Kyla Rasmussen,Good,Within the past year,No,No,Yes,No,No,Yes,No,Female,60-64,165,88,32.28,No,0,8,5,4
+Kyla Ingram,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Male,75-79,173,82.55,27.67,Yes,1,8,20,8
+Kyla Mooney,Very Good,Within the past year,Yes,No,Yes,No,Yes,No,Yes,Male,70-74,178,136.08,43.05,No,10,2,4,2
+Kyla Clayton,Fair,Within the past year,No,No,No,No,No,Yes,Yes,Female,70-74,155,78.93,32.88,No,0,30,6,6
+Kyla Krause,Good,Within the past year,Yes,No,No,No,No,Yes,Yes,Female,60-64,160,90.72,35.43,Yes,0,30,30,0
+Kyla Le,Good,Within the past year,Yes,No,No,No,No,No,No,Female,75-79,163,66.68,25.23,No,0,90,16,2
+Kyla Stanton,Excellent,Within the past year,Yes,No,No,No,No,No,Yes,Female,80+,165,70.76,25.96,No,0,16,0,2
+Kyla Burgess,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,60-64,173,61.23,20.53,Yes,0,30,4,0
+Kyla Workman,Excellent,Within the past year,Yes,No,No,No,No,No,No,Female,45-49,163,99.79,37.76,Yes,0,30,12,1
+Kyla Pryor,Poor,Within the past year,No,Yes,No,No,No,Yes,Yes,Female,75-79,173,77.11,25.85,Yes,0,30,4,0
+Kyla Hagen,Excellent,Within the past 2 years,Yes,No,Yes,No,No,No,No,Male,80+,173,70.31,23.57,Yes,0,30,0,0
+Kyla Wiley,Good,Within the past 2 years,No,No,No,No,No,Yes,No,Female,65-69,163,95.71,36.22,No,0,16,20,3
+Kyla Cherry,Fair,Within the past year,No,No,No,Yes,No,No,Yes,Female,80+,155,53.52,22.3,No,0,0,0,2
+Kyla Burch,Fair,Within the past year,No,No,No,Yes,No,Yes,Yes,Female,75-79,163,74.84,28.32,No,0,5,4,0
+Kyla Gentry,Very Good,Within the past year,Yes,Yes,No,No,No,Yes,Yes,Female,80+,163,63.5,24.03,No,0,4,30,0
+Kyla Driscoll,Excellent,Within the past 2 years,No,No,No,No,No,No,No,Male,60-64,185,87.09,25.33,No,0,5,8,1
+Kyla Medina,Good,Within the past year,Yes,No,No,No,Yes,No,No,Female,65-69,175,62.6,20.38,No,0,30,2,0
+Kyla Howe,Good,Within the past year,Yes,No,No,No,No,Yes,Yes,Male,65-69,183,79.38,23.73,Yes,20,20,10,15
+Kyla Bader,Good,Within the past 2 years,No,No,No,Yes,No,No,Yes,Female,70-74,157,55.34,22.31,No,0,30,0,4
+Kyla Roper,Good,Within the past 2 years,Yes,No,No,Yes,Yes,No,Yes,Male,65-69,196,68.04,17.79,Yes,0,5,1,1
+Kyla Bunker,Good,Within the past year,No,Yes,No,No,No,Yes,No,Female,80+,170,90.72,31.32,No,0,20,4,1
+Kyla Shipley,Excellent,Within the past year,Yes,No,Yes,No,No,No,No,Male,75-79,191,83.01,22.87,No,0,60,16,8
+Kyla Beaumont,Fair,Within the past year,No,Yes,Yes,Yes,No,Yes,Yes,Male,70-74,188,95.25,26.96,No,0,8,4,12
+Kyla Wiles,Excellent,Within the past year,Yes,No,No,No,No,No,No,Male,55-59,185,86.18,25.07,No,0,60,8,4
+Kyla Holliday,Good,Within the past year,No,No,No,No,No,No,Yes,Female,80+,163,65.77,24.89,No,0,12,16,2
+Kyla Spivey,Fair,Within the past year,No,No,No,No,No,Yes,No,Female,60-64,163,55.79,21.11,Yes,0,2,2,4
+Kyla Kraus,Good,Within the past year,Yes,No,No,No,No,Yes,No,Female,70-74,152,72.57,31.25,Yes,0,4,30,2
+Kyla Fairbanks,Excellent,Within the past year,Yes,No,Yes,Yes,Yes,No,Yes,Male,70-74,173,90.72,30.41,No,6,30,20,8
+Kyla Ratliff,Very Good,Within the past year,No,No,Yes,No,No,No,Yes,Female,75-79,165,61.23,22.46,No,0,8,0,4
+Kyla Franks,Fair,Within the past year,No,Yes,No,No,Yes,No,Yes,Female,80+,160,52.16,20.37,Yes,0,30,2,1
+Kyla Haas,Good,Within the past year,Yes,No,Yes,No,Yes,No,Yes,Female,60-64,163,49.9,18.88,Yes,0,16,30,4
+Kyla Doty,Good,Within the past year,Yes,No,Yes,No,No,No,Yes,Female,65-69,173,102.06,34.21,No,0,60,22,12
